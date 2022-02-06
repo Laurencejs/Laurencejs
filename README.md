@@ -9,7 +9,7 @@
 
 - Githubda projelerimi paylaşıcam 
 
-- Eğer sizde bot yaptırmak isterseniz bana discorddan ulaşmanız yeterlidir Laurence ✬#1943
+- Eğer sizde bot yaptırmak isterseniz bana discorddan ulaşmanız yeterlidir Laurence?#7744
 
 <img src="https://komarev.com/ghpvc/?username=Laurencejss&label=Ziyaretçi%20Sayısı&color=552b75" alt="Laurencejss" />
 
