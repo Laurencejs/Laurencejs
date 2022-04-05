@@ -3,7 +3,7 @@
 
 🎉 Tekrardan herkese selam!
 
-- Kendimden biraz bahsedeyim. Ben Burak [Laurence](https://github.com/Laurencejs) 19 yaşındayım, İstanbul üniversitesin'de hukuk okuyorum.
+- Kendimden biraz bahsedeyim. Ben Burak [Laurence](https://github.com/Laurencejs) 18 Yaşındayım.İstanbul Üsküdar'da yaşıyorum.
 
 - 2.5 - 3 yıla yakındır discord botlarıyla uğraşıyorum
 
@@ -15,9 +15,9 @@
 
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
-     <a href="https://instagram.com/laurence1943xd" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+     <a href="https://instagram.com/laurence.asd" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://open.spotify.com/user/0k6yyu8khng58kmelml3u23hd" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-     <a href="https://discord.gg/fairnes" target"blank_"><img src="https://img.shields.io/badge/DİSCORD%20-DC3175.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+     <a href="https://discord.gg/6mtc6U67n4" target"blank_"><img src="https://img.shields.io/badge/DİSCORD%20-DC3175.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
     
    
