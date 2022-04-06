@@ -3,7 +3,7 @@
 
 🎉 Tekrardan herkese selam!
 
-- Kendimden biraz bahsedeyim. Ben Burak [Laurence](https://github.com/Laurencejs) 18 Yaşındayım.İstanbul Üsküdar'da yaşıyorum.
+- Kendimden biraz bahsedeyim. Ben Burak [Laurence](https://github.com/Laurencejs) 18 Yaşındayım. İstanbul Üsküdar'da yaşıyorum.
 
 - 2.5 - 3 yıla yakındır discord botlarıyla uğraşıyorum
 
